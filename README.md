@@ -9,10 +9,18 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alex-jiwon-lee/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:a55lee@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/1128alex"><img src="https://img.shields.io/badge/Projects-40%2B-ff69b4" alt="Projects badge"></a>
-  <a href="https://1128alex.github.io/alex-lee/"><img src="https://img.shields.io/badge/Website-portfolio-green?logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/alex-jiwon-lee/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:a55lee@uwaterloo.ca">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/1128alex?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  </a>
+  <a href="https://1128alex.github.io/alex-lee/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Website"/>
+  </a>
 </p>
 <!-- -------------------------------------------------------------------- -->
 
