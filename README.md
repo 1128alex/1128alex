@@ -16,9 +16,8 @@
 ## 🚀 About Me
 
 - 🎓 **3rd-year Data Science student @ UWaterloo**  
-- 🤖 Passionate about **AI/ML, data analysis, and scalable software systems**  
-- 🚀 Currently **seeking 2026 co-op opportunities** in **Data Science / ML / Software Development**  
-- 📈 Strong focus on **interpretable AI, clean data design, and system reliability**  
+- 🤖 Passionate about **AI/ML, data analysis, and software development**  
+- 🚀 Currently **seeking 2026 co-op opportunities** in **Data Science / ML / Data Analyst / Software Development**  
 
 ---
 
@@ -37,9 +36,9 @@
 | Category             | Tools                                                                 |
 | -------------------- | --------------------------------------------------------------------- |
 | **Data Science / ML** | Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV |
-| **Software Dev**     | Python, Java, C/C++, R, Typescript, Javascript, React, Express, Spring |
+| **Programming Languages**     | Python, Java, C/C++, SQL, R, Typescript, Javascript, |
 | **Databases**        | MySQL, MongoDB |
-| **Tools & Platforms** | Power BI, Git, Linux, AWS, Make |
+| **Tools & Platforms** | React, Express, Spring, Power BI, Git, Linux, AWS, Make |
 
 ---
 
