@@ -17,7 +17,7 @@
 
 - 🎓 **3rd-year Data Science student @ UWaterloo**  
 - 🤖 Passionate about **AI/ML, data analysis, and software development**  
-- 🚀 Currently **seeking 2026 co-op opportunities** in **Data Science / ML / Data Analyst / Software Development**  
+- 🚀 Currently **seeking 2026 co-op opportunities** for **Data Scientist / ML Engineer / Data Engineer / Data Analyst / Software Engineer**  
 
 ---
 
