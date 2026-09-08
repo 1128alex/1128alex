@@ -26,8 +26,8 @@
 | Project                                                                 | Stack                                        | Impact                                                                                                  |
 | ----------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | [**AI/ML Football Analysis**](https://github.com/1128alex/aiml_football_analysis) <br><sub>(Real-time tracking)</sub>         | Python, OpenCV, Pandas, YOLOv11, AWS, Next.js | ⚽ Trained YOLOv11 on 10k+ images (0.877 mAP50); deployed on AWS with live video web app |
-| [**FBREF Football Data Analysis**](https://github.com/1128alex/fbref-analysis) <br><sub>(100k+ match records)</sub>   | Pandas, Matplotlib, Power BI, Selenium        | 📊 Collected & cleaned 100k+ matches; uncovered progressive passing distance as key predictor for outcomes |
-| [**Academic Management System**](https://github.com/1128alex/academic_management_system) <br><sub>(50+ users, 20+ features)</sub> | Java, Spring, MySQL, AWS EC2                 | 🎓 Built full-stack web app with chat & custom filters; optimized DB response time by 30% |
+| [**FBREF Football Data Analysis**](https://github.com/1128alex/fbref-analysis) <br><sub>(100k+ match records)</sub>   | Pandas, Matplotlib, Power BI, Selenium        | 📊 Collected & cleaned 100k+ matches; discovered progressive passing distance as key predictor for outcomes |
+| [**Academic Management System**](https://github.com/1128alex/academic_management_system) <br><sub>(50+ users, 20+ features)</sub> | Java, Spring, MySQL, AWS EC2                 | 🎓 Built full-stack web app with chat & custom filters; My very first SWE project! |
 
 ---
 
